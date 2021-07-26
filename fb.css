@@ -1,0 +1,66 @@
+body{
+	margin: 0;
+}
+.head{
+	background-color:blue;
+	text-align: center;
+	
+	padding: 5px 5px;
+	
+}
+.head>h1{
+	color: white;
+	font-size: 38px;
+	text-align: center;
+	font-weight:bold;
+}
+
+.data{
+	color: black;
+    border: 3px solid black;
+    margin-bottom: 2px;
+    margin-top: 7px;
+}
+
+
+.enter{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+	margin-top: 20px;
+	text-align: center;
+	color: white;
+	font-size: 28px;
+	background-color: blue;
+	
+}
+body{
+	background-color:whitesmoke;
+	background-image: ;
+}
+form{
+   
+   align-content: center;
+   margin-top: 20px;
+   line-height: 1.5;
+   font-size: 28px;
+   }
+ .but{
+ 	color: white;
+ 	margin-top: 10px;
+ 	background-color: green;
+ 	font-size: 20px;
+ 	padding: 10px 10px;
+
+ }
+ hr{
+ 
+ 	color: black;
+ }
+.list{
+ 	color: blue;
+}
+ .list:nth-child(1){
+ 	margin-top: 20px;
+ }
